@@ -1,0 +1,18 @@
+.cc-cvc, .row2, .row3 {
+    display: flex;
+    width: 100%;
+    
+}
+
+.cc-cvc {
+    
+}
+
+
+
+.card {
+    padding: 3rem;
+    display: block;
+    margin: 4rem;
+}
+
